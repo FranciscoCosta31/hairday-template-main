@@ -1,9 +1,9 @@
 import { hoursLoad } from "../form/hours-load.js"
 //Seleciona o input de data.
 const selectedDate = document.getElementById("date")
-export function scheduleDays() {
+export function schedulesDay() {
   // Obtém a data do input
-  const data = selectedDate.value
+  const date = selectedDate.value
   // Renderiza as horas disponiveis
   hoursLoad({ date })
 }
