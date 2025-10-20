@@ -18,12 +18,9 @@ Este projeto foi criado como parte do meu aprimoramento na manipulação do **DO
 * **JavaScript (ES6+):** Lógica principal, manipulação do DOM e agendamento (baseado no conteúdo do certificado).
 * **HTML5:** Estrutura semântica do projeto.
 * **CSS3:** Estilização e responsividade da interface.
-* **[Adicione outras tecnologias se usou, como uma API de calendário ou JSON local]**
+
 
 ## 💻 Demonstração e Como Rodar
-
-### Demonstração Online
-Acesse o projeto em funcionamento aqui: **[Link para o Site em Produção, ex: Netlify ou Vercel]**
 
 ### Rodando Localmente
 
