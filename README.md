@@ -10,8 +10,6 @@ Este projeto foi criado como parte do meu aprimoramento na manipulação do **DO
 
 * **Agendamento Intuitivo:** Interface simples para selecionar data, hora e serviço.
 * **Gestão de Horários:** Lógica para bloquear horários já preenchidos.
-* **[Funcionalidade Opcional 1]** (Ex: Cálculo de preço dinâmico baseado no serviço.)
-* **[Funcionalidade Opcional 2]** (Ex: Validação de formulário em tempo real.)
 
 ## 🚀 Tecnologias Utilizadas
 
