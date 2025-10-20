@@ -44,8 +44,6 @@ Este projeto foi crucial para consolidar os seguintes conceitos de JavaScript:
 * **[Conceito 2]** (Ex: Uso de arrays e métodos como `filter()` e `map()` para gerenciar e exibir os horários disponíveis.)
 * **[Conceito 3]** (Ex: Implementação da lógica de validação de formulários do zero.)
 
-Meu maior desafio foi **[Mencione um desafio, ex: Gerenciar a persistência dos dados de agendamento usando `localStorage` ou garantir a responsividade em diferentes telas.]**
-
 ## 🤝 Contribuição
 
 Contribuições, sugestões e críticas construtivas são sempre bem-vindas! Se quiser contribuir, por favor, crie um *fork* do projeto e envie um *Pull Request*.
