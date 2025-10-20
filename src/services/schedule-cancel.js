@@ -11,3 +11,4 @@ export async function scheduleCancel({ id }) {
     alert("Não foi possível cancelar o agendamento.")
   }
 }
+//teste
